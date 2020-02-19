@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Hey
-||||||| 92ad18a
-HEllooo
-=======
-Hy
->>>>>>> feature2
 
+HEllooo
+Hy
